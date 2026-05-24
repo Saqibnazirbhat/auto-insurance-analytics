@@ -1,4 +1,4 @@
-# 🚗 Auto Insurance Analytics
+#  Auto Insurance Analytics
 
 > **Customer Lifetime Value · Churn & Survival · Campaign Response · Predictive Modeling**
 
